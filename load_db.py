@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-# Load cleaned CSV into a DataFrame
+# Load the cleaned CSV
 df = pd.read_csv("data/weather_data.csv")
 
 print("First 5 rows:")
@@ -9,25 +9,42 @@ print(df.head())
 
 print("\nNumber of rows:", len(df))
 
-# Connect to SQLite database
-conn = sqlite3.connect("data/weather.db")
+conn = None
 
-# Save DataFrame into a table called weather
-df.to_sql(
-    "weather",
-    conn,
-    if_exists="replace",
-    index=False
-)
+try:
+    # Connect to the database
+    conn = sqlite3.connect("data/weather.db")
 
-# Verify data was saved
-cursor = conn.cursor()
+    # Save the cleaned data into the weather table
+    df.to_sql(
+        "weather",
+        conn,
+        if_exists="replace",
+        index=False
+    )
 
-cursor.execute("SELECT COUNT(*) FROM weather")
-row_count = cursor.fetchone()[0]
+    # Check that the data was saved
+    cursor = conn.cursor()
 
-print("Rows in weather table:", row_count)
+    cursor.execute("SELECT COUNT(*) FROM weather")
+    row_count = cursor.fetchone()[0]
 
-conn.close()
+    print("\nRows in weather table:", row_count)
 
-print("\nWeather data saved to SQLite successfully.")
+    # Show a few rows from the database
+    cursor.execute("SELECT * FROM weather LIMIT 5")
+    rows = cursor.fetchall()
+
+    print("\nFirst 5 rows from the database:")
+
+    for row in rows:
+        print(row)
+
+    print("\nWeather data saved to SQLite successfully.")
+
+except sqlite3.Error as e:
+    print("Database error:", e)
+
+finally:
+    if conn:
+        conn.close()

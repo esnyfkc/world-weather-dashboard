@@ -1,141 +1,142 @@
 City,Local Time,Condition,Temperature,Temperature_F
-Accra,Wed 4:32 am,Mostly cloudy. Warm.,77 °F,77
-Edmonton,Tue 10:32 pm,Passing clouds. Cool.,57 °F,57
-Nassau,Wed 12:32 am,Thunderstorms. Partly cloudy. Warm.,79 °F,79
-Addis Ababa,Wed 7:32 am,Partly sunny. Cool.,59 °F,59
-Frankfurt,Wed 6:32 am,Passing clouds. Mild.,63 °F,63
-New Delhi,Wed 10:02 am,Fog. Warm.,83 °F,83
-Adelaide,Wed 2:02 pm,Cool.,58 °F,58
-Guatemala City,Tue 10:32 pm,Partly cloudy. Mild.,68 °F,68
-New Orleans,Tue 11:32 pm,Clear. Warm.,81 °F,81
-Algiers,Wed 5:32 am,Passing clouds. Warm.,82 °F,82
-Halifax,Wed 1:32 am,Clear. Mild.,63 °F,63
-New York,Wed 12:32 am,Passing clouds. Mild.,71 °F,71
-Almaty,Wed 9:32 am,Clear. Mild.,72 °F,72
-Hanoi,Wed 11:32 am,Mostly cloudy. Warm.,84 °F,84
-Oslo,Wed 6:32 am,Clear. Cool.,50 °F,50
-Amman,Wed 7:32 am,Haze. Pleasantly warm.,77 °F,77
-Harare,Wed 6:32 am,Clear. Cool.,50 °F,50
-Ottawa,Wed 12:32 am,Clear. Cool.,61 °F,61
-Amsterdam,Wed 6:32 am,Clear. Cool.,55 °F,55
-Havana,Wed 12:32 am,Passing clouds. Warm.,77 °F,77
-Paris,Wed 6:32 am,Passing clouds. Mild.,66 °F,66
-Anadyr,Wed 4:32 pm,Partly sunny. Quite cool.,45 °F,45
-Helsinki,Wed 7:32 am,Sunny. Cool.,52 °F,52
-Perth,Wed 12:32 pm,Broken clouds. Mild.,70 °F,70
-Anchorage,Tue 8:32 pm,Cloudy. Cool.,60 °F,60
-Hong Kong,Wed 12:32 pm,Scattered clouds. Warm.,84 °F,84
-Philadelphia,Wed 12:32 am,Passing clouds. Mild.,72 °F,72
-Ankara,Wed 7:32 am,Sunny. Cool.,61 °F,61
-Honolulu,Tue 6:32 pm,Passing clouds. Warm.,84 °F,84
-Phoenix,Tue 9:32 pm,Clear. Extremely hot.,106 °F,106
-Antananarivo,Wed 7:32 am,Passing clouds. Cool.,52 °F,52
-Houston,Tue 11:32 pm,Passing clouds. Warm.,85 °F,85
-Prague,Wed 6:32 am,Clear. Cool.,57 °F,57
-Asuncion,Wed 1:32 am,Clear. Mild.,70 °F,70
-Indianapolis,Wed 12:32 am,Passing clouds. Mild.,70 °F,70
-Reykjavik,Wed 4:32 am,Passing clouds. Cool.,46 °F,46
-Athens,Wed 7:32 am,Warm.,81 °F,81
-Islamabad,Wed 9:32 am,Clear. Warm.,79 °F,79
-Rio de Janeiro,Wed 1:32 am,Overcast. Mild.,68 °F,68
-Atlanta,Wed 12:32 am,Clear. Mild.,74 °F,74
-Istanbul,Wed 7:32 am,Sunny. Mild.,72 °F,72
-Riyadh,Wed 7:32 am,Sunny. Pleasantly warm.,86 °F,86
-Auckland,Wed 4:32 pm,Partly sunny. Cool.,61 °F,61
-Jakarta,Wed 11:32 am,Partly sunny. Hot.,89 °F,89
-Rome,Wed 6:32 am,Passing clouds. Mild.,75 °F,75
-Baghdad,Wed 7:32 am,Sunny. Pleasantly warm.,85 °F,85
-Jerusalem,Wed 7:32 am,Mild.,74 °F,74
-Salt Lake City,Tue 10:32 pm,Partly cloudy. Pleasantly warm.,82 °F,82
-Bangkok,Wed 11:32 am,Scattered clouds. Hot.,90 °F,90
-Johannesburg,Wed 6:32 am,Clear. Refreshingly cool.,58 °F,58
-San Francisco,Tue 9:32 pm,Passing clouds. Cool.,61 °F,61
-Barcelona,Wed 6:32 am,Passing clouds. Mild.,75 °F,75
-Karachi,Wed 9:32 am,Partly sunny. Warm.,84 °F,84
-San Juan,Wed 12:32 am,Passing clouds. Warm.,83 °F,83
-Beijing,Wed 12:32 pm,Passing clouds. Warm.,82 °F,82
-Kathmandu,Wed 10:17 am,Partly sunny. Warm.,79 °F,79
-San Salvador,Tue 10:32 pm,Clear. Warm.,82 °F,82
-Belgrade,Wed 6:32 am,Sunny. Mild.,68 °F,68
-Kingston,Tue 11:32 pm,Warm.,86 °F,86
-Santiago,Wed 12:32 am,Passing clouds. Cool.,54 °F,54
-Bengaluru,Wed 10:02 am,Scattered clouds. Mild.,75 °F,75
-Kinshasa,Wed 5:32 am,Clear. Mild.,70 °F,70
-Santo Domingo,Wed 12:32 am,Passing clouds. Warm.,83 °F,83
-Berlin,Wed 6:32 am,Clear. Cool.,57 °F,57
-Kiritimati,Wed 6:32 pm,Sprinkles. Overcast. Warm.,77 °F,77
-São Paulo,Wed 1:32 am,Passing clouds. Cool.,61 °F,61
-Bogota,Tue 11:32 pm,Passing clouds. Cool.,55 °F,55
-Kolkata,Wed 10:02 am,Scattered clouds. Warm.,88 °F,88
-Seattle,Tue 9:32 pm,Clear. Mild.,69 °F,69
-Boston,Wed 12:32 am,Clear. Mild.,70 °F,70
-Kuala Lumpur,Wed 12:32 pm,Passing clouds. Warm.,86 °F,86
-Seoul,Wed 1:32 pm,Partly sunny. Warm.,88 °F,88
-Brasilia,Wed 1:32 am,Clear. Mild.,75 °F,75
-Kuwait City,Wed 7:32 am,Scattered clouds. Hot.,88 °F,88
-Shanghai,Wed 12:32 pm,Scattered clouds. Extremely hot.,93 °F,93
-Brisbane,Wed 2:32 pm,Mild.,74 °F,74
-Kyiv,Wed 7:32 am,Overcast. Cool.,60 °F,60
-Singapore,Wed 12:32 pm,Sprinkles. Scattered clouds. Warm.,82 °F,82
-Brussels,Wed 6:32 am,Clear. Cool.,59 °F,59
-La Paz,Wed 12:32 am,Clear. Chilly.,40 °F,40
-Sofia,Wed 7:32 am,Passing clouds. Mild.,67 °F,67
-Bucharest,Wed 7:32 am,Sprinkles. Scattered clouds. Mild.,66 °F,66
-Lagos,Wed 5:32 am,Passing clouds. Warm.,77 °F,77
-St. John's,Wed 2:02 am,Mostly cloudy. Mild.,70 °F,70
-Budapest,Wed 6:32 am,Passing clouds. Mild.,68 °F,68
-Lahore,Wed 9:32 am,Passing clouds. Hot.,91 °F,91
-Stockholm,Wed 6:32 am,Clear. Cool.,48 °F,48
-Buenos Aires,Wed 1:32 am,Clear. Cool.,54 °F,54
-Las Vegas,Tue 9:32 pm,Passing clouds. Extremely hot.,103 °F,103
-Suva,Wed 4:32 pm,Overcast. Mild.,75 °F,75
-Cairo,Wed 7:32 am,Haze. Warm.,79 °F,79
-Lima,Tue 11:32 pm,Overcast. Mild.,71 °F,71
-Sydney,Wed 2:32 pm,Broken clouds. Mild.,63 °F,63
-Calgary,Tue 10:32 pm,Passing clouds. Mild.,68 °F,68
-Lisbon,Wed 5:32 am,Passing clouds. Mild.,68 °F,68
-Taipei,Wed 12:32 pm,Broken clouds. Hot.,90 °F,90
-Canberra,Wed 2:32 pm,Mostly cloudy. Cool.,59 °F,59
-London,Wed 5:32 am,Light rain. Clear. Mild.,64 °F,64
-Tallinn,Wed 7:32 am,Sunny. Cool.,55 °F,55
-Cape Town,Wed 6:32 am,Clear. Cool.,50 °F,50
-Los Angeles,Tue 9:32 pm,Clear. Mild.,75 °F,75
-Tashkent,Wed 9:32 am,Clear. Mild.,64 °F,64
-Caracas,Wed 12:32 am,Passing clouds. Warm.,82 °F,82
-Madrid,Wed 6:32 am,Clear. Mild.,64 °F,64
-Tegucigalpa,Tue 10:32 pm,Partly cloudy. Mild.,73 °F,73
-Casablanca,Wed 5:32 am,Mild.,72 °F,72
-Managua,Tue 10:32 pm,Passing clouds. Warm.,84 °F,84
-Tehran,Wed 8:02 am,Sunny. Hot.,90 °F,90
-Chicago,Tue 11:32 pm,Passing clouds. Mild.,71 °F,71
-Manila,Wed 12:32 pm,Scattered clouds. Hot.,88 °F,88
-Tokyo,Wed 1:32 pm,Partly sunny. Hot.,90 °F,90
-Copenhagen,Wed 6:32 am,Fog. Cool.,59 °F,59
-Melbourne,Wed 2:32 pm,Partly sunny. Refreshingly cool.,57 °F,57
-Toronto,Wed 12:32 am,Passing clouds. Mild.,66 °F,66
-Dallas,Tue 11:32 pm,Passing clouds. Hot.,93 °F,93
-Mexico City,Tue 10:32 pm,Passing clouds. Mild.,64 °F,64
-Vancouver,Tue 9:32 pm,Partly cloudy. Mild.,70 °F,70
-Dar es Salaam,Wed 7:32 am,Scattered clouds. Mild.,70 °F,70
-Miami,Wed 12:32 am,Passing clouds. Warm.,84 °F,84
-Vienna,Wed 6:32 am,Clear. Mild.,63 °F,63
-Darwin,Wed 2:02 pm,Sunny. Hot.,91 °F,91
-Minneapolis,Tue 11:32 pm,Clear. Mild.,76 °F,76
-Warsaw,Wed 6:32 am,Sunny. Cool.,50 °F,50
-Denver,Tue 10:32 pm,Passing clouds. Mild.,75 °F,75
-Minsk,Wed 7:32 am,Clear. Cool.,50 °F,50
-Washington DC,Wed 12:32 am,Passing clouds. Mild.,75 °F,75
-Detroit,Wed 12:32 am,Clear. Mild.,68 °F,68
-Montevideo,Wed 1:32 am,Clear. Cool.,46 °F,46
-Winnipeg,Tue 11:32 pm,Mild.,68 °F,68
-Dhaka,Wed 10:32 am,Light rain. Low clouds. Warm.,80 °F,80
-Montréal,Wed 12:32 am,Passing clouds. Mild.,64 °F,64
-Yangon,Wed 11:02 am,Partly sunny. Warm.,84 °F,84
-Doha,Wed 7:32 am,Clear. Extremely hot.,93 °F,93
-Moscow,Wed 7:32 am,Overcast. Cool.,56 °F,56
-Zagreb,Wed 6:32 am,Passing clouds. Mild.,66 °F,66
-Dubai,Wed 8:32 am,Clear. Extremely hot.,97 °F,97
-Mumbai,Wed 10:02 am,Broken clouds. Warm.,84 °F,84
-Zürich,Wed 6:32 am,Mild.,63 °F,63
-Dublin,Wed 5:32 am,Passing clouds. Cool.,61 °F,61
-Nairobi,Wed 7:32 am,Passing clouds. Cool.,55 °F,55
+Accra,Wed 5:09 am,Passing clouds. Warm.,77 °F,77
+Dublin,Wed 6:09 am,Passing clouds. Cool.,50 °F,50
+Nairobi,Wed 8:09 am,Partly sunny. Cool.,57 °F,57
+Addis Ababa,Wed 8:09 am,Passing clouds. Mild.,63 °F,63
+Edmonton,Tue 11:09 pm,Partly cloudy. Cool.,52 °F,52
+Nassau,Wed 1:09 am,Passing clouds. Warm.,79 °F,79
+Adelaide,Wed 2:39 pm,Cool.,59 °F,59
+Frankfurt,Wed 7:09 am,Passing clouds. Refreshingly cool.,61 °F,61
+New Delhi,Wed 10:39 am,Haze. Warm.,84 °F,84
+Algiers,Wed 6:09 am,Passing clouds. Warm.,80 °F,80
+Guatemala City,Tue 11:09 pm,Passing clouds. Mild.,68 °F,68
+New Orleans,Wed 12:09 am,Clear. Warm.,83 °F,83
+Almaty,Wed 10:09 am,Passing clouds. Pleasantly warm.,77 °F,77
+Halifax,Wed 2:09 am,Passing clouds. Cool.,48 °F,48
+New York,Wed 1:09 am,Clear. Mild.,72 °F,72
+Amman,Wed 8:09 am,Haze. Mild.,68 °F,68
+Hanoi,Wed 12:09 pm,Passing clouds. Warm.,88 °F,88
+Oslo,Wed 7:09 am,Sleet. Cloudy. Quite cool.,43 °F,43
+Amsterdam,Wed 7:09 am,Passing clouds. Cool.,59 °F,59
+Harare,Wed 7:09 am,Passing clouds. Cool.,51 °F,51
+Ottawa,Wed 1:09 am,Mostly cloudy. Cool.,61 °F,61
+Anadyr,Wed 5:09 pm,Partly sunny. Cool.,57 °F,57
+Havana,Wed 1:09 am,Passing clouds. Mild.,73 °F,73
+Paris,Wed 7:09 am,Passing clouds. Cool.,52 °F,52
+Anchorage,Tue 9:09 pm,Overcast. Cool.,56 °F,56
+Helsinki,Wed 8:09 am,Partly sunny. Cool.,61 °F,61
+Perth,Wed 1:09 pm,Passing clouds. Mild.,68 °F,68
+Ankara,Wed 8:09 am,Sunny. Cool.,54 °F,54
+Hong Kong,Wed 1:09 pm,Scattered clouds. Hot.,91 °F,91
+Philadelphia,Wed 1:09 am,Passing clouds. Mild.,74 °F,74
+Antananarivo,Wed 8:09 am,Broken clouds. Cool.,57 °F,57
+Honolulu,Tue 7:09 pm,Scattered clouds. Warm.,82 °F,82
+Phoenix,Tue 10:09 pm,Passing clouds. Extremely hot.,103 °F,103
+Asuncion,Wed 2:09 am,Clear. Mild.,63 °F,63
+Houston,Wed 12:09 am,Passing clouds. Warm.,84 °F,84
+Prague,Wed 7:09 am,Sunny. Mild.,64 °F,64
+Athens,Wed 8:09 am,Mild.,73 °F,73
+Indianapolis,Wed 1:09 am,Passing clouds. Warm.,79 °F,79
+Reykjavik,Wed 5:09 am,Drizzle. Mostly cloudy. Cool.,50 °F,50
+Atlanta,Wed 1:09 am,Clear. Warm.,78 °F,78
+Islamabad,Wed 10:09 am,Scattered clouds. Warm.,82 °F,82
+Rio de Janeiro,Wed 2:09 am,Clear. Mild.,70 °F,70
+Auckland,Wed 5:09 pm,Overcast. Refreshingly cool.,61 °F,61
+Istanbul,Wed 8:09 am,Sunny. Mild.,72 °F,72
+Riyadh,Wed 8:09 am,Broken clouds. Hot.,91 °F,91
+Baghdad,Wed 8:09 am,Sunny. Mild.,76 °F,76
+Jakarta,Wed 12:09 pm,Partly sunny. Hot.,91 °F,91
+Rome,Wed 7:09 am,Clear. Mild.,75 °F,75
+Bangkok,Wed 12:09 pm,Passing clouds. Hot.,90 °F,90
+Jerusalem,Wed 8:09 am,Mild.,72 °F,72
+Salt Lake City,Tue 11:09 pm,Clear. Mild.,67 °F,67
+Barcelona,Wed 7:09 am,Strong thunderstorms. Passing clouds. Warm.,77 °F,77
+Johannesburg,Wed 7:09 am,Passing clouds. Cool.,54 °F,54
+San Francisco,Tue 10:09 pm,Passing clouds. Mild.,73 °F,73
+Beijing,Wed 1:09 pm,Sunny. Pleasantly warm.,77 °F,77
+Karachi,Wed 10:09 am,Scattered clouds. Warm.,86 °F,86
+San Juan,Wed 1:09 am,Passing clouds. Warm.,81 °F,81
+Beirut,Wed 8:09 am,Passing clouds. Mild.,73 °F,73
+Kathmandu,Wed 10:54 am,Scattered clouds. Warm.,81 °F,81
+San Salvador,Tue 11:09 pm,Clear. Warm.,79 °F,79
+Belgrade,Wed 7:09 am,Sunny. Mild.,63 °F,63
+Kingston,Wed 12:09 am,Warm.,85 °F,85
+Santiago,Wed 2:09 am,Passing clouds. Cool.,46 °F,46
+Bengaluru,Wed 10:39 am,Scattered clouds. Warm.,79 °F,79
+Kinshasa,Wed 6:09 am,Thunderstorms. Passing clouds. Mild.,72 °F,72
+Santo Domingo,Wed 1:09 am,Passing clouds. Warm.,84 °F,84
+Berlin,Wed 7:09 am,Sunny. Mild.,68 °F,68
+Kiritimati,Wed 7:09 pm,Overcast. Warm.,81 °F,81
+São Paulo,Wed 2:09 am,Passing clouds. Mild.,63 °F,63
+Bogota,Wed 12:09 am,Passing clouds. Cool.,59 °F,59
+Kolkata,Wed 10:39 am,Scattered clouds. Warm.,86 °F,86
+Seattle,Tue 10:09 pm,Clear. Mild.,64 °F,64
+Boston,Wed 1:09 am,Passing clouds. Mild.,65 °F,65
+Kuala Lumpur,Wed 1:09 pm,Passing clouds. Hot.,91 °F,91
+Seoul,Wed 2:09 pm,Sunny. Warm.,79 °F,79
+Brasilia,Wed 2:09 am,Clear. Mild.,72 °F,72
+Kuwait City,Wed 8:09 am,Sunny. Hot.,91 °F,91
+Shanghai,Wed 1:09 pm,Sunny. Warm.,82 °F,82
+Brisbane,Wed 3:09 pm,Mild.,75 °F,75
+Kyiv,Wed 8:09 am,Clear. Cool.,53 °F,53
+Singapore,Wed 1:09 pm,Broken clouds. Hot.,90 °F,90
+Brussels,Wed 7:09 am,Clear. Cool.,54 °F,54
+La Paz,Wed 1:09 am,Light rain. Low clouds. Chilly.,39 °F,39
+Sofia,Wed 8:09 am,Clear. Cool.,58 °F,58
+Bucharest,Wed 8:09 am,Sunny. Cool.,55 °F,55
+Lagos,Wed 6:09 am,Passing clouds. Warm.,77 °F,77
+St. John's,Wed 2:39 am,Sprinkles. Mostly cloudy. Cool.,50 °F,50
+Budapest,Wed 7:09 am,Sunny. Refreshingly cool.,61 °F,61
+Lahore,Wed 10:09 am,Clear. Hot.,91 °F,91
+Stockholm,Wed 7:09 am,Broken clouds. Cool.,55 °F,55
+Buenos Aires,Wed 2:09 am,Clear. Cool.,59 °F,59
+Las Vegas,Tue 10:09 pm,Passing clouds. Extremely hot.,95 °F,95
+Suva,Wed 5:09 pm,Overcast. Warm.,82 °F,82
+Cairo,Wed 8:09 am,Fog. Warm.,79 °F,79
+Lima,Wed 12:09 am,Passing clouds. Mild.,73 °F,73
+Sydney,Wed 3:09 pm,Broken clouds. Mild.,63 °F,63
+Calgary,Tue 11:09 pm,Passing clouds. Mild.,63 °F,63
+Lisbon,Wed 6:09 am,Passing clouds. Mild.,66 °F,66
+Taipei,Wed 1:09 pm,Scattered showers. Partly sunny. Warm.,84 °F,84
+Canberra,Wed 3:09 pm,Partly sunny. Refreshingly cool.,59 °F,59
+London,Wed 6:09 am,Clear. Cool.,52 °F,52
+Tallinn,Wed 8:09 am,Partly sunny. Cool.,61 °F,61
+Cape Town,Wed 7:09 am,Fog. Cool.,57 °F,57
+Los Angeles,Tue 10:09 pm,Clear. Warm.,82 °F,82
+Tashkent,Wed 10:09 am,Clear. Mild.,67 °F,67
+Caracas,Wed 1:09 am,Passing clouds. Warm.,82 °F,82
+Madrid,Wed 7:09 am,Clear. Mild.,68 °F,68
+Tegucigalpa,Tue 11:09 pm,Passing clouds. Mild.,73 °F,73
+Casablanca,Wed 6:09 am,Mild.,73 °F,73
+Managua,Tue 11:09 pm,Passing clouds. Warm.,84 °F,84
+Tehran,Wed 8:39 am,Partly sunny. Mild.,72 °F,72
+Chicago,Wed 12:09 am,Mostly cloudy. Warm.,79 °F,79
+Manila,Wed 1:09 pm,Sprinkles. Overcast. Warm.,80 °F,80
+Tokyo,Wed 2:09 pm,Broken clouds. Warm.,84 °F,84
+Copenhagen,Wed 7:09 am,Scattered clouds. Cool.,57 °F,57
+Melbourne,Wed 3:09 pm,Broken clouds. Refreshingly cool.,55 °F,55
+Toronto,Wed 1:09 am,Overcast. Mild.,70 °F,70
+Dallas,Wed 12:09 am,Passing clouds. Hot.,91 °F,91
+Mexico City,Tue 11:09 pm,Light rain. Mostly cloudy. Mild.,63 °F,63
+Vancouver,Tue 10:09 pm,Passing clouds. Cool.,61 °F,61
+Dar es Salaam,Wed 8:09 am,Fog. Mild.,73 °F,73
+Miami,Wed 1:09 am,Passing clouds. Warm.,81 °F,81
+Vienna,Wed 7:09 am,Passing clouds. Mild.,64 °F,64
+Darwin,Wed 2:39 pm,Partly sunny. Hot.,90 °F,90
+Minneapolis,Wed 12:09 am,Passing clouds. Warm.,78 °F,78
+Warsaw,Wed 7:09 am,Sunny. Cool.,59 °F,59
+Denver,Tue 11:09 pm,Passing clouds. Mild.,65 °F,65
+Minsk,Wed 8:09 am,Clear. Cool.,50 °F,50
+Washington DC,Wed 1:09 am,Passing clouds. Mild.,73 °F,73
+Detroit,Wed 1:09 am,Passing clouds. Mild.,73 °F,73
+Montevideo,Wed 2:09 am,Clear. Cool.,48 °F,48
+Winnipeg,Wed 12:09 am,Cool.,60 °F,60
+Dhaka,Wed 11:09 am,Overcast. Warm.,87 °F,87
+Montréal,Wed 1:09 am,Clear. Mild.,63 °F,63
+Yangon,Wed 11:39 am,Partly sunny. Warm.,82 °F,82
+Doha,Wed 8:09 am,Passing clouds. Extremely hot.,99 °F,99
+Moscow,Wed 8:09 am,Sunny. Quite cool.,42 °F,42
+Zagreb,Wed 7:09 am,Sunny. Cool.,57 °F,57
+Dubai,Wed 9:09 am,Passing clouds. Extremely hot.,97 °F,97
+Mumbai,Wed 10:39 am,Haze. Warm.,84 °F,84
+Zürich,Wed 7:09 am,Rain showers. Passing clouds. Cool.,59 °F,59

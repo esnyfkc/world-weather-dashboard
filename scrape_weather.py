@@ -31,13 +31,16 @@ try:
 
             if not city.strip():
                 continue
-            
+
             local_time = cells[i + 1].text
 
             try:
-                weather_image = cells[i + 2].find_element(By.CSS_SELECTOR, "img")
+                weather_image = cells[i + 2].find_element(
+                    By.CSS_SELECTOR,
+                    "img"
+                )
                 condition = weather_image.get_attribute("alt")
-            except:
+            except Exception:
                 condition = "Unknown"
 
             temperature = cells[i + 3].text
@@ -52,9 +55,8 @@ try:
             results.append(weather_data)
 
     print("Number of cities:", len(results))
-    # -------------------------
-    # Before Cleaning
-    # -------------------------
+
+    # Before cleaning
     df = pd.DataFrame(results)
 
     print("\nBefore cleaning:")
@@ -65,10 +67,10 @@ try:
 
     print("\nDuplicate rows:")
     print(df.duplicated().sum())
-    # -------------------------
-    # Data Cleaning
-    # -------------------------
-    
+
+
+    # Clean the data
+
     # Remove * from city names
     df["City"] = (
         df["City"]
@@ -88,12 +90,14 @@ try:
         errors="coerce"
     )
 
+    # Remove rows with invalid temperatures
+    df = df.dropna(subset=["Temperature_F"])
+
     # Remove duplicate rows
     df = df.drop_duplicates()
 
-    # -------------------------
-    # After Cleaning
-    # -------------------------
+
+    # After cleaning
 
     print("\nAfter cleaning:")
     print(df.head())
@@ -104,14 +108,14 @@ try:
     print("\nShape after cleaning:")
     print(df.shape)
 
-    # -------------------------
+
     # Save to CSV
-    # -------------------------
 
     df.to_csv(
         "data/weather_data.csv",
         index=False
     )
+
     print("\nweather_data.csv created successfully.")
 
 
